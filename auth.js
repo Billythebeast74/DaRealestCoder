@@ -1,6 +1,6 @@
 "use strict";
-const AUTH_URL='https://gfajmydixgupventxtai.supabase.co';
-const AUTH_PUBLIC_KEY='sb_publishable_yGSOBZjgwqEJQJkMH7PSzA_kMcwtwqs';
+const AUTH_URL='https://zmovipsujjmhdjgyngcz.supabase.co';
+const AUTH_PUBLIC_KEY='sb_publishable_6M900nDxEaAMzuSwgEKtkA_DUKCOosj';
 const AUTH_REDIRECT='https://sollyandwill.netlify.app/';
 let authClient=null,accountUser=null,signupRole='customer',authMode='signin',authBusy=false,recoveryActive=false;
 window.activeRole=null;
